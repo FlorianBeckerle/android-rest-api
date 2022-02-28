@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fb/Documents/5BHITM/MEDT/MobileComputing/AndroidStudio/AndroidRestAPI/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/fb/Documents/5BHITM/MEDT/MobileComputing/AndroidStudio/AndroidRestAPI/app/src/main/res/layout/fragment_post_detail.xml" value="0.21875" />
+        <entry key="..\:/Users/fb/Documents/5BHITM/MEDT/MobileComputing/AndroidStudio/AndroidRestAPI/app/src/main/res/layout/fragment_post_overview.xml" value="0.21875" />
+        <entry key="..\:/Users/fb/Documents/5BHITM/MEDT/MobileComputing/AndroidStudio/AndroidRestAPI/app/src/main/res/layout/post_item.xml" value="0.21875" />
         <entry key="..\:/schule/programmieren/5BHITM/android/5BHITM/AndroidRestAPI/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
